@@ -1,8 +1,0 @@
-#include "shell.h"
-
-int main(void)
-{
-char *name;
-age
-printf("Welcome! Please input your name -->\n")
-scanf("
